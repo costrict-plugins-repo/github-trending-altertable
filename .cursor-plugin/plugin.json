@@ -1,0 +1,28 @@
+{
+  "name": "altertable",
+  "displayName": "Altertable",
+  "version": "1.9.5",
+  "description": "Give Cursor governed access to Altertable for querying, ingestion, product analytics, insights, data apps, automation, and findings.",
+  "author": {
+    "name": "Altertable"
+  },
+  "homepage": "https://altertable.ai",
+  "repository": "https://github.com/altertable-ai/skills",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "altertable",
+    "analytics",
+    "catalogs",
+    "lakehouse",
+    "data-warehouse",
+    "semantic-layer",
+    "ingestion",
+    "automation",
+    "product-analytics",
+    "findings",
+    "sql"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

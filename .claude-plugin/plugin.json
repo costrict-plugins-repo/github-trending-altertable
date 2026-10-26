@@ -1,0 +1,42 @@
+{
+  "name": "altertable",
+  "displayName": "Altertable",
+  "description": "Give Claude governed access to Altertable for querying, ingestion, product analytics, insights, data apps, automation, and findings.",
+  "version": "1.9.5",
+  "author": {
+    "name": "Altertable",
+    "url": "https://github.com/altertable-ai"
+  },
+  "repository": "https://github.com/altertable-ai/skills",
+  "homepage": "https://altertable.ai",
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://altertable.ai/docs",
+  "supportUrl": "https://github.com/altertable-ai/skills/issues",
+  "privacyPolicyUrl": "https://altertable.ai/privacy-policy",
+  "termsOfServiceUrl": "https://altertable.ai/terms-of-service",
+  "license": "MIT",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "keywords": [
+    "altertable",
+    "analytics",
+    "catalogs",
+    "chatgpt-data",
+    "data-agent",
+    "data-exploration",
+    "funnels",
+    "web-traffic",
+    "segments",
+    "insights",
+    "findings",
+    "ingestion",
+    "automation",
+    "product-analytics",
+    "duckdb",
+    "lakehouse",
+    "semantic-layer",
+    "forecasting",
+    "events",
+    "instrumentation"
+  ]
+}
